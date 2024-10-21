@@ -1,6 +1,6 @@
 {
-    "name": "plank/laravel-mediable",
-    "description": "A package for easily uploading and attaching media files to models with Laravel",
+    "name": "adolcini/laravel-mediable-mongodb",
+    "description": "A package for easily uploading and attaching media files to laravel/mongodb models with Laravel",
     "keywords": [
         "media",
         "image",
