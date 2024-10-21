@@ -6,7 +6,7 @@ namespace Plank\Mediable;
 use Closure;
 use Illuminate\Database\Query\Builder;
 use Illuminate\Database\Eloquent\Collection;
-use Illuminate\Database\Eloquent\Model;
+use MongoDB\Laravel\Eloquent\Model;
 use Illuminate\Database\Eloquent\Relations\MorphToMany;
 
 /**
